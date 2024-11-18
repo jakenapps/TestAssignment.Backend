@@ -1,41 +1,392 @@
 {
   "version": 2,
-  "dgSpecHash": "7F8rLt0HT6o=",
+  "dgSpecHash": "VKAaFam9NR4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\TaskAssignment.Backend.csproj",
+  "projectFilePath": "C:\\assignment\\TestAssignment.Backend\\TaskAssignment.Backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.0\\microsoft.entityframeworkcore.sqlite.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.0\\microsoft.entityframeworkcore.sqlite.core.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0\\microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0\\microsoft.extensions.logging.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
-    "C:\\Users\\Shadow\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.0\\microsoft.entityframeworkcore.sqlite.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.0\\microsoft.entityframeworkcore.sqlite.core.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0\\microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0\\microsoft.extensions.logging.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacob.andersson\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Sqlite' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Sqlite'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Sqlite' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Sqlite'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Sqlite.Core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Sqlite.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Sqlite.Core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Sqlite.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.bundle_e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.bundle_e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.bundle_e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.bundle_e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Configuration.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Configuration.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Configuration.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Configuration.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyModel' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyModel' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyModel'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyModel"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.core'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Text.Json' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Text.Json' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Caching.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Caching.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Relational' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Relational'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Relational' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Relational'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Data.Sqlite.Core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Data.Sqlite.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Data.Sqlite.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'Microsoft.Data.Sqlite.Core' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='Microsoft.Data.Sqlite.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Data.Sqlite.Core"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.provider.e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.provider.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.provider.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.lib.e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.lib.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'SQLitePCLRaw.lib.e_sqlite3' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='SQLitePCLRaw.lib.e_sqlite3'&semVerLevel=2.0.0'.",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Text.Encodings.Web' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Text.Encodings.Web' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.IO.Pipelines' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.IO.Pipelines' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Diagnostics.DiagnosticSource' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Diagnostics.DiagnosticSource'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Failed to retrieve information about 'System.Diagnostics.DiagnosticSource' from remote source 'https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/FindPackagesById()?id='System.Diagnostics.DiagnosticSource'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    }
+  ]
 }
