@@ -1,31 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\assignment\\TestAssignment.Backend\\TaskAssignment.Backend.csproj": {}
+    "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\TaskAssignment.Backend.csproj": {}
   },
   "projects": {
-    "C:\\assignment\\TestAssignment.Backend\\TaskAssignment.Backend.csproj": {
+    "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\TaskAssignment.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\assignment\\TestAssignment.Backend\\TaskAssignment.Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\TaskAssignment.Backend.csproj",
         "projectName": "TaskAssignment.Backend",
-        "projectPath": "C:\\assignment\\TestAssignment.Backend\\TaskAssignment.Backend.csproj",
-        "packagesPath": "C:\\Users\\jacob.andersson\\.nuget\\packages\\",
-        "outputPath": "C:\\assignment\\TestAssignment.Backend\\obj\\",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\TaskAssignment.Backend.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\assignment\\TaskAssignment.Backend\\TaskAssignment.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\jacob.andersson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/seweb/_packaging/seweb/npm/registry/": {},
-          "https://pkgs.dev.azure.com/seweb/_packaging/seweb/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -56,6 +52,12 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -80,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\jacob.andersson\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Shadow\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
